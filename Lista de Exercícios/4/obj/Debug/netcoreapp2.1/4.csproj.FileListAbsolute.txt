@@ -1,0 +1,11 @@
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\obj\Debug\netcoreapp2.1\4.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\obj\Debug\netcoreapp2.1\4.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\obj\Debug\netcoreapp2.1\4.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\obj\Debug\netcoreapp2.1\4.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\bin\Debug\netcoreapp2.1\4.deps.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\bin\Debug\netcoreapp2.1\4.runtimeconfig.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\bin\Debug\netcoreapp2.1\4.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\bin\Debug\netcoreapp2.1\4.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\bin\Debug\netcoreapp2.1\4.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\obj\Debug\netcoreapp2.1\4.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Lista de Exercícios\4\obj\Debug\netcoreapp2.1\4.pdb

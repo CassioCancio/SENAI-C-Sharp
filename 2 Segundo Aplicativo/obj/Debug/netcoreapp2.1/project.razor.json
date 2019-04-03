@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\42720780898\\Desktop\\SENAI\\Projetos\\SENAI-C-Sharp\\Segundo Aplicativo\\Segundo Aplicativo.csproj",
+  "ProjectFilePath": "c:\\Users\\42720780898\\Desktop\\SENAI\\Projetos\\SENAI-C-Sharp\\2 Segundo Aplicativo\\Segundo Aplicativo.csproj",
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }

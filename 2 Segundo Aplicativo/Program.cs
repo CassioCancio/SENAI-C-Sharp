@@ -28,20 +28,23 @@ namespace Segundo_Aplicativo
 
             soma = primeira + segunda + terceira;
 
-            double media = soma/3;
+            double media = soma / 3;
 
 
             if (media < 5 || faltas > 25)
             {
                 Console.WriteLine("Aluno Reprovado");
-            } else if (media < 9)
+            }
+            else if (media < 9)
             {
                 Console.WriteLine("Aluno Aprovado");
-            }else{
+            }
+            else
+            {
                 Console.WriteLine("É isso aí Jovem!");
             }
-            
-            Console.WriteLine("A soma das notas é: "+soma+" e a média é: "+media);
+
+            Console.WriteLine("A soma das notas é: " + soma + " e a média é: " + media);
         }
     }
 }
