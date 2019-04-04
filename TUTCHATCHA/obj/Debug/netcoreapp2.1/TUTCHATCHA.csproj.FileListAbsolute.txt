@@ -1,0 +1,11 @@
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\bin\Debug\netcoreapp2.1\TUTCHATCHA.deps.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\bin\Debug\netcoreapp2.1\TUTCHATCHA.runtimeconfig.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\bin\Debug\netcoreapp2.1\TUTCHATCHA.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\bin\Debug\netcoreapp2.1\TUTCHATCHA.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\bin\Debug\netcoreapp2.1\TUTCHATCHA.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\obj\Debug\netcoreapp2.1\TUTCHATCHA.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\obj\Debug\netcoreapp2.1\TUTCHATCHA.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\obj\Debug\netcoreapp2.1\TUTCHATCHA.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\obj\Debug\netcoreapp2.1\TUTCHATCHA.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\obj\Debug\netcoreapp2.1\TUTCHATCHA.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\TUTCHATCHA\obj\Debug\netcoreapp2.1\TUTCHATCHA.pdb

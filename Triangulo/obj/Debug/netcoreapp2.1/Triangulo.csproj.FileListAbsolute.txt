@@ -1,0 +1,11 @@
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\bin\Debug\netcoreapp2.1\Triangulo.deps.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\bin\Debug\netcoreapp2.1\Triangulo.runtimeconfig.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\bin\Debug\netcoreapp2.1\Triangulo.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\bin\Debug\netcoreapp2.1\Triangulo.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\bin\Debug\netcoreapp2.1\Triangulo.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.pdb

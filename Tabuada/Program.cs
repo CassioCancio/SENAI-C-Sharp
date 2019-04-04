@@ -12,7 +12,7 @@ namespace Tabuada
             Console.WriteLine("");
             Console.WriteLine("Bem-vindo à Calculadora de Tabuadas");
 
-            while (usuario){
+            do{
 
             Console.WriteLine("");
             Console.WriteLine("Insira o n° da tabuada");
@@ -22,13 +22,13 @@ namespace Tabuada
                 Console.WriteLine("----------------");
                 Console.WriteLine(num+" x "+cont+" = "+num*cont);
                 cont++;
-            }
             Console.WriteLine("");
             Console.WriteLine("Deseja calcular outra tabuada?");
             string resposta = Console.ReadLine();
             usuario = resposta.Equals("sim") ? true : false;
             cont = 0;
             }
+            }while(cont <=10);
 
         }
     }

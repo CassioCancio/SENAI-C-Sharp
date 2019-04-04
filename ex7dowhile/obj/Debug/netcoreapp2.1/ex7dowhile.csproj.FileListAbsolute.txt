@@ -1,0 +1,22 @@
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\bin\Debug\netcoreapp2.1\ex7dowhile.deps.json
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\bin\Debug\netcoreapp2.1\ex7dowhile.runtimeconfig.json
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\bin\Debug\netcoreapp2.1\ex7dowhile.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\bin\Debug\netcoreapp2.1\ex7dowhile.dll
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\bin\Debug\netcoreapp2.1\ex7dowhile.pdb
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.AssemblyInfo.cs
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.dll
+C:\Users\41813664803\Documents\Aulas C#\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\obj\Debug\netcoreapp2.1\ex7dowhile.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\bin\Debug\netcoreapp2.1\ex7dowhile.deps.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\bin\Debug\netcoreapp2.1\ex7dowhile.runtimeconfig.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\bin\Debug\netcoreapp2.1\ex7dowhile.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\bin\Debug\netcoreapp2.1\ex7dowhile.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\ex7dowhile\bin\Debug\netcoreapp2.1\ex7dowhile.pdb

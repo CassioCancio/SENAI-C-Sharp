@@ -1,0 +1,11 @@
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\bin\Debug\netcoreapp2.1\Estatística.deps.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\bin\Debug\netcoreapp2.1\Estatística.runtimeconfig.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\bin\Debug\netcoreapp2.1\Estatística.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\bin\Debug\netcoreapp2.1\Estatística.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\bin\Debug\netcoreapp2.1\Estatística.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\obj\Debug\netcoreapp2.1\Estatística.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\obj\Debug\netcoreapp2.1\Estatística.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\obj\Debug\netcoreapp2.1\Estatística.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\obj\Debug\netcoreapp2.1\Estatística.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\obj\Debug\netcoreapp2.1\Estatística.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Estatística\obj\Debug\netcoreapp2.1\Estatística.pdb
