@@ -10,7 +10,7 @@ namespace TUTCHATCHA
 
             Console.WriteLine("Quantos são maiores de idade?");
 
-            for (int i = 0; i < 10; i++)
+              
             {
             Console.WriteLine("Digite a idade");
             int num = int.Parse(Console.ReadLine());
