@@ -1,0 +1,11 @@
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\bin\Debug\netcoreapp2.1\Asteríscos.deps.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\bin\Debug\netcoreapp2.1\Asteríscos.runtimeconfig.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\bin\Debug\netcoreapp2.1\Asteríscos.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\bin\Debug\netcoreapp2.1\Asteríscos.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\bin\Debug\netcoreapp2.1\Asteríscos.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\obj\Debug\netcoreapp2.1\Asteríscos.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\obj\Debug\netcoreapp2.1\Asteríscos.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\obj\Debug\netcoreapp2.1\Asteríscos.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\obj\Debug\netcoreapp2.1\Asteríscos.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\obj\Debug\netcoreapp2.1\Asteríscos.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Asteríscos\obj\Debug\netcoreapp2.1\Asteríscos.pdb
