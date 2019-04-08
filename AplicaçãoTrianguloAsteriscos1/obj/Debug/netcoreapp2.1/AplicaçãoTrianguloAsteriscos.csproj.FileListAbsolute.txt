@@ -1,0 +1,11 @@
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\bin\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.deps.json
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\bin\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.runtimeconfig.json
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\bin\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.runtimeconfig.dev.json
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\bin\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.dll
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\bin\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.pdb
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\obj\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.csprojAssemblyReference.cache
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\obj\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.csproj.CoreCompileInputs.cache
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\obj\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.AssemblyInfoInputs.cache
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\obj\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.AssemblyInfo.cs
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\obj\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.dll
+C:\Users\44366500817\Desktop\C#\AplicaçãoTrianguloAsteriscos\obj\Debug\netcoreapp2.1\AplicaçãoTrianguloAsteriscos.pdb

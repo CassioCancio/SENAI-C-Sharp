@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\44366500817\\Desktop\\ExerciciosCSharp\\AplicaçãoTrianguloAsteriscos\\AplicaçãoTrianguloAsteriscos.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

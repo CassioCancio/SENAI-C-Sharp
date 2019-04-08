@@ -1,0 +1,11 @@
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\obj\Debug\netcoreapp2.1\Número da casa.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\obj\Debug\netcoreapp2.1\Número da casa.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\obj\Debug\netcoreapp2.1\Número da casa.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\obj\Debug\netcoreapp2.1\Número da casa.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\bin\Debug\netcoreapp2.1\Número da casa.deps.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\bin\Debug\netcoreapp2.1\Número da casa.runtimeconfig.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\bin\Debug\netcoreapp2.1\Número da casa.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\bin\Debug\netcoreapp2.1\Número da casa.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\bin\Debug\netcoreapp2.1\Número da casa.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\obj\Debug\netcoreapp2.1\Número da casa.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Número da casa\obj\Debug\netcoreapp2.1\Número da casa.pdb

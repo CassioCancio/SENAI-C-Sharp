@@ -1,0 +1,11 @@
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\bin\Debug\netcoreapp2.1\Com for agr.deps.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\bin\Debug\netcoreapp2.1\Com for agr.runtimeconfig.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\bin\Debug\netcoreapp2.1\Com for agr.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\bin\Debug\netcoreapp2.1\Com for agr.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\bin\Debug\netcoreapp2.1\Com for agr.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\obj\Debug\netcoreapp2.1\Com for agr.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\obj\Debug\netcoreapp2.1\Com for agr.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\obj\Debug\netcoreapp2.1\Com for agr.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\obj\Debug\netcoreapp2.1\Com for agr.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\obj\Debug\netcoreapp2.1\Com for agr.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Com for agr\obj\Debug\netcoreapp2.1\Com for agr.pdb

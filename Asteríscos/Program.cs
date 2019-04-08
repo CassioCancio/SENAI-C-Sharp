@@ -6,16 +6,15 @@ namespace Asteríscos
     {
         static void Main(string[] args)
         {
-            int linhas = 3;
-            int colunas = 2;
+            
+            int colunas = 3;
+            int linhas = 15;
 
-            for(int i= 1; i <= linhas; i++) {
-                for(int j= 1; j <= linhas; j++) {
-                    System.Console.WriteLine($"[{i},{j}]");
+            for(int i = 1; i <= colunas; i++) {
+                for(string j = ""; j.Length <= linhas; j+="*") {
+                    System.Console.WriteLine(j);
                 }
             }
-
-            Console.WriteLine("Hello World!");
         }
     }
 }

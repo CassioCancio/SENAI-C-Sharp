@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\42720780898\\Desktop\\SENAI\\Projetos\\SENAI-C-Sharp\\Número da casa\\Número da casa.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
