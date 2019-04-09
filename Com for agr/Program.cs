@@ -1,40 +1,35 @@
 ﻿using System;
 
-namespace Com_for_agr
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-             int z = 0;
-            int [] idades ={100,50,20,10,5,2,1};
-            int [] oi = new int [7];
-            int m = 0;
-            int n = 0;
-            
-            Console.WriteLine("Banco Eletrônico");
-            Console.WriteLine();
-            Console.WriteLine("Digite o saldo que você deseja sacar:");
-            Console.WriteLine();
-            z = int.Parse(Console.ReadLine());
-            
-            for(int i=0; i<=7; i++){
-                oi[m]=z/idades[n];
-                z = z - oi[m] * idades[n]; 
-                m++;
-                n++;
+namespace Com_for_agr {
+    class Program {
+        static void Main (string[] args) {
+
+            int[] valores = { 100, 50, 20, 10, 5, 2, 1 };
+            int[] numero_de_notas = new int[7];
+            int saque;
+            int i;
+            DateTime data = DateTime.Now;
+            string teste;
+
+            do {
+                Console.WriteLine ("---------------------- Banco Eletrônico -----------------------");
+                Console.WriteLine ("Digite um valor válido para sacar (Ele deve ir de 1 a 1000000):");
+                teste = Console.ReadLine ();
+                if (int.TryParse (teste, out saque)) { saque = int.Parse (teste); }
+            } while (saque < 1 || saque > 1000000);
+
+            for (i = 0; i <= 6; i++) {
+                numero_de_notas[i] = saque / valores[i];
+                saque = saque % valores[i];
             }
-            foreach (var idade in oi)
-            Console.WriteLine($"{idade}");
-            Console.WriteLine("");
-    }
-            // Console.WriteLine();
-            // Console.WriteLine(a+ " notas de 100 reais");
-            // Console.WriteLine(b+ " notas de 50 reais");
-            // Console.WriteLine(c+ " notas de 20 reais");
-            // Console.WriteLine(d+ " notas de 10 reais");
-            // Console.WriteLine(e+ " notas de 5 reais");
-            // Console.WriteLine(f+ " notas de 2 reais");
-            // Console.WriteLine(g+ " notas de 1 reais");
+
+            i = 0;
+            Console.WriteLine ("\nVocê receberá:");
+
+            foreach (var resultado_final in numero_de_notas) {
+                Console.WriteLine ($"{resultado_final} notas de {valores[i]} às {data:HH:MM}");
+                i++;
+            }
         }
     }
+}
