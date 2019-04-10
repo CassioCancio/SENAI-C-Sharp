@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\42720780898\\Desktop\\Tabuada\\Tabuada.csproj",
+      "projectUniqueName": "C:\\Users\\42720780898\\Desktop\\SENAI\\Projetos\\SENAI-C-Sharp\\Tabuada\\Tabuada.csproj",
       "projectName": "Tabuada",
-      "projectPath": "C:\\Users\\42720780898\\Desktop\\Tabuada\\Tabuada.csproj",
+      "projectPath": "C:\\Users\\42720780898\\Desktop\\SENAI\\Projetos\\SENAI-C-Sharp\\Tabuada\\Tabuada.csproj",
       "packagesPath": "C:\\Users\\42720780898\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\42720780898\\Desktop\\Tabuada\\obj\\",
+      "outputPath": "C:\\Users\\42720780898\\Desktop\\SENAI\\Projetos\\SENAI-C-Sharp\\Tabuada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

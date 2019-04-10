@@ -9,3 +9,14 @@ C:\Users\42720780898\Desktop\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.AssemblyInf
 C:\Users\42720780898\Desktop\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.AssemblyInfo.cs
 C:\Users\42720780898\Desktop\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.dll
 C:\Users\42720780898\Desktop\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.deps.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.runtimeconfig.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.pdb
