@@ -1,0 +1,11 @@
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\bin\Debug\netcoreapp2.1\segunda-feira.deps.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\bin\Debug\netcoreapp2.1\segunda-feira.runtimeconfig.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\bin\Debug\netcoreapp2.1\segunda-feira.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\bin\Debug\netcoreapp2.1\segunda-feira.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\bin\Debug\netcoreapp2.1\segunda-feira.pdb
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\obj\Debug\netcoreapp2.1\segunda-feira.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\obj\Debug\netcoreapp2.1\segunda-feira.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\obj\Debug\netcoreapp2.1\segunda-feira.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\obj\Debug\netcoreapp2.1\segunda-feira.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\obj\Debug\netcoreapp2.1\segunda-feira.dll
+C:\Users\42720780898\Desktop\SENAI\Projetos\SENAI-C-Sharp\segunda-feira\obj\Debug\netcoreapp2.1\segunda-feira.pdb
